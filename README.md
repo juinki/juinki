@@ -1,9 +1,4 @@
-- 👋 Hi, 
-- 👀 I’m 
-- 🌱 learning to
-- 💞️ collaborate and collaborating
-- 🌱 to learn
-- 🦄
+-🦄🦧
 
 <!---
 juinki/juinki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
